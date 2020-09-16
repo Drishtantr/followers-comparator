@@ -17,8 +17,7 @@ This application requests for the number of followers of two Instagram accounts,
   $ pip install requests
   $ flask run
   This should provide the link of the local server
-*Live Version
-	The live version is available at https://followerscompare.herokuapp.com/
+
 
 ## Usage
 python, flask, requests library, HTML CSS JS
